@@ -28,6 +28,36 @@
         }
       ],
       "uuid": "53adf3b3-81d5-4556-9de0-ef49de5e9ca2"
+    },
+    {
+      "start_time": 75,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " has long been read within queer and feminist film criticism—often through frameworks of male homosexuality, gender deviance, or failed masculinity—recent work in trans studies invites a different historical and analytical question: when, and under what conditions, did transness become legible as distinct from homosexuality or male femininity in visual culture? This project approaches La Manuela not as a metaphor for homosexual excess or as a figure of inverted masculinity, but as a transfeminine subject whose gendered self-presentation, social positioning, and vulnerability exceed the analytic limits of those earlier frameworks. Reading La Manuela as trans* does not impose a contemporary identity retroactively; rather, it attends to the film’s own representational labor—its staging of feminine self-naming, embodiment, desire, and risk—within a historical moment when transness was not yet stabilized as a category in Mexican cultural discourse. By foregrounding La Manuela’s transfemininity, this annotation reframes the film as an early, unstable site where trans subjectivity becomes partially visible, even as it remains mediated by melodrama, spectacle, and violence. The intervention, then, is not to correct previous queer readings, but to extend them—demonstrating how "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " participates in a longer genealogy in which transfeminine life emerges unevenly, precariously, and often under the sign of annihilation."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "78edb9c0-2ada-4aad-b1fc-f06d21974821"
     }
   ],
   "set": "Default",
