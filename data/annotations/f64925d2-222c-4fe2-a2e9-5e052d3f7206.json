@@ -42,6 +42,34 @@
         }
       ],
       "uuid": "c48076f0-c597-4059-b1a7-22a358101a9b"
+    },
+    {
+      "start_time": 40,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In reflecting on the making of "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": ", Arturo Ripstein emphasizes that the film emerged from a convergence of contingencies rather than from a stable or inevitable production path. The project began with the manuscript of José Donoso’s novel, which at one point was slated to be adapted by Luis Buñuel—the Spanish filmmaker whose international reputation by the 1960s and 70s had already secured his place as a central figure in modern cinema. Buñuel ultimately chose not to direct the adaptation, a decision that left the project suspended until Ripstein took it up under markedly different conditions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queering the genre"
+        }
+      ],
+      "uuid": "b3b9cbb7-3b09-46e1-b626-bb3a13eee08a"
     }
   ],
   "set": "Default",
