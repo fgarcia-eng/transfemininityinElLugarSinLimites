@@ -24,6 +24,46 @@
         }
       ],
       "uuid": "e30f54c1-4afb-4ad2-9b7a-66422ea13bdc"
+    },
+    {
+      "start_time": 116,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this portion of the interview, Arturo Ripstein recalls the reception of "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " at the San Sebastián International Film Festival (Edition 26), where the film—and particularly the kiss between La Manuela and Pancho—provoked intense backlash from both attendants and critics. Ripstein notes that the controversy extended beyond the screen: the director, actors, and crew were subjected to public scrutiny and hostility, revealing how the film’s challenge to sexual and gender norms exceeded cinematic boundaries and entered the realm of social offense."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queer body as spectacle"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Mexican Melodrama"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Body Politics on the screen"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Queer Masculinity"
+        }
+      ],
+      "uuid": "31b4bc81-66ba-4687-9137-85329e27f6a9"
     }
   ],
   "set": "Default",
