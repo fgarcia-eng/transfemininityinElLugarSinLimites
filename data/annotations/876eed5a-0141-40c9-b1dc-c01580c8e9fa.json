@@ -166,6 +166,51 @@
         }
       ],
       "uuid": "dfdc4100-4e58-46e2-ad95-b95c5ba61f97"
+    },
+    {
+      "start_time": 297,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The epigraph prefigures the film’s refusal of transcendence. There is no redemptive outside—no city of escape, no narrative closure that restores balance. Hell “remains” because it is sustained by ordinary social practices: machismo, compulsory heterosexuality, economic dependency, and the regulation of gender legibility. In this sense, El lugar sin límites does not name a utopia of boundless possibility, but a space where violence has no borders, where the lines between desire and punishment, visibility and safety, have already collapsed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This immanent hell (el infierno) is condensed in the scene’s final exchange. When La Japonesita suggests sleep, La Manuela replies: “¿Cómo quieres que me duerma? No digas tonterías.” Sleep—normally a retreat from the world—is impossible. Vigilance is compulsory. Violence does not arrive as interruption but as condition, structuring time itself. Hell is not only where La Manuela lives; it is what keeps her awake. The rules that allow hell is what keep her awake, living in fear."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By invoking Faust, Ripstein frames the film as tragedy rather than moral fable. The characters are not damned by an act but by conditions they cannot exit. The epigraph instructs the viewer to read what follows not as an individual downfall, but as life lived inside an already-existing inferno—one without limits, because it extends into every space, every gesture, and even the possibility of rest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Queer Spaces",
+          "tag": "Rurality and queernes"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Trans* embodiment on screen"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Queer desire in rural contexts"
+        }
+      ],
+      "uuid": "2ef716bb-9ff2-442a-8b35-f8b2fccd4fa5"
     }
   ],
   "set": "Default",
