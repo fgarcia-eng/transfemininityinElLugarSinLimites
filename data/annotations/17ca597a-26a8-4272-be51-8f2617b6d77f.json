@@ -64,6 +64,34 @@
         }
       ],
       "uuid": "31b4bc81-66ba-4687-9137-85329e27f6a9"
+    },
+    {
+      "start_time": 141,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This reaction must be situated within the context of late Francoist Spain, where censorship, moral conservatism, and authoritarian regulation of sexuality remained deeply entrenched, even as the regime approached its end. In this climate, the onscreen kiss was not read as narrative gesture or melodramatic device, but as a provocation—an intolerable visualization of queer desire that violated the tacit separation between what could be known and what could be publicly shown. The scandal underscores how "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " made visible not only transfeminine desire, but also the fragility of heteromasculine coherence when confronted with recognition."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queer body as spectacle"
+        }
+      ],
+      "uuid": "157f44f2-c98a-4fe0-bc76-71bd8b2e7c2e"
     }
   ],
   "set": "Default",
