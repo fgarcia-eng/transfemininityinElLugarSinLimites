@@ -1,5 +1,49 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 15,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The screenplay of "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " was written collaboratively by Arturo Ripstein, José Emilio Pacheco, and Manuel Puig, and is adapted from the novel of the same name by José Donoso. Puig—best known for "
+            },
+            {
+              "text": "El beso de la mujer araña",
+              "italic": true
+            },
+            {
+              "text": "—brings to the script a literary sensibility attuned to melodrama, queer desire, and confinement, while Pacheco’s prose sharpens the film’s political and ethical tensions. This layered authorship situates the film at the intersection of Latin American literary modernism and Mexican cinematic melodrama, shaping La Manuela’s emergence as a complex, mediated figure rather than a purely symbolic one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Mexican Melodrama"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Body Politics on the screen"
+        }
+      ],
+      "uuid": "c48076f0-c597-4059-b1a7-22a358101a9b"
+    }
+  ],
   "set": "Default",
   "event_id": "41e14e59-a5db-49ab-9a89-e88bb218664a",
   "source_id": "95292bd9-c6e0-4c80-b70c-a9df1f372efd"
