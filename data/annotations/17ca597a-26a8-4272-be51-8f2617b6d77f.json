@@ -181,7 +181,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        }
+      ],
       "uuid": "733a6fc8-a2fa-4436-89ae-2f8959b1a6eb"
     }
   ],
