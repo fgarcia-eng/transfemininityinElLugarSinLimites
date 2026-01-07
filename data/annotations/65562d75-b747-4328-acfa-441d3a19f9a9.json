@@ -244,6 +244,76 @@
         }
       ],
       "uuid": "6eef670d-7019-48f9-9537-2a7cfbb49812"
+    },
+    {
+      "start_time": 159,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chronologically, in the temporal time of the movie, this is the first party in town where Manuela is present. It shows the viewer possibilities of what is to come. The space is crowded and animated: live music, singing, bodies pressed together. Manuela dances, and desire circulates openly. The men dance with her, touch her, grab her; acceptance appears momentarily possible. But this inclusion is conditional and unstable. The celebration spills outward and culminates at the river, where the same men strip Manuela naked and laugh as they expose her body. What begins as festivity becomes violation."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scene echoes Lorca’s "
+            },
+            {
+              "text": "La casada infiel",
+              "italic": true
+            },
+            {
+              "text": "—"
+            },
+            {
+              "text": "“y yo que me la llevé al río creyendo que era…”",
+              "italic": true
+            },
+            {
+              "text": "—but here seduction collapses into recognition. “"
+            },
+            {
+              "text": "Resultó que no era hembra",
+              "italic": true
+            },
+            {
+              "text": "” (1:07:19). Desire is retroactively reclassified as error once it threatens masculine coherence. Water becomes both baptism and threat: the site where enchantment is briefly admitted, then violently revoked."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This flashback-fiesta sequence explains how El Olivo becomes hell. Manuela’s visibility is permitted only within tightly coded conditions—drunkenness, spectacle, collective performances of masculine dominance—and is withdrawn the moment recognition becomes explicit. She may occupy the center only so long as she does not force acknowledgment. The promise of “going up like foam” dissolves here, replaced by a logic in which queer presence flickers briefly, then is disciplined, exposed, and erased. What the flashback reveals is not a lost paradise, but the process by which possibility itself is systematically foreclosed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sex-Gender System",
+          "tag": "Trans* embodiment on screen"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Queer desire in rural contexts"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queer body as spectacle"
+        }
+      ],
+      "uuid": "e7529d1c-6ff4-45ad-bcb0-e9138aee8944"
     }
   ],
   "set": "Default",
