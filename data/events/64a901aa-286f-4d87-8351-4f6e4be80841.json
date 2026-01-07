@@ -3,7 +3,7 @@
     "170e9460-480a-41e7-bab7-89637947836e": {
       "label": "Opening Scene",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=6T8ObxhK6Mg",
       "duration": 0,
       "caption_set": [],
@@ -28,6 +28,6 @@
   ],
   "created_at": "2026-01-07T02:51:56.041Z",
   "created_by": "fgarcia-eng",
-  "updated_at": "2026-01-07T02:51:56.041Z",
+  "updated_at": "2026-01-07T02:52:30.612Z",
   "updated_by": "fgarcia-eng"
 }
