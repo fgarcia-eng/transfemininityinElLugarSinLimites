@@ -151,7 +151,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Foxtrot"
+              "text": "Following the poor critical reception of "
+            },
+            {
+              "text": "Foxtrot",
+              "italic": true
+            },
+            {
+              "text": ", Arturo Ripstein was marginalized within the Mexican film industry. At the time, filmmaking in Mexico depended heavily on the backing of "
+            },
+            {
+              "text": "productoras",
+              "italic": true
+            },
+            {
+              "text": "—powerful production houses that controlled financing, access to equipment, shooting schedules, and distribution. After "
+            },
+            {
+              "text": "Foxtrot",
+              "italic": true
+            },
+            {
+              "text": ", Ripstein was pushed to the periphery of this system: assigned inferior equipment, limited resources, and marginal filming conditions. This industrial relegation shaped the material aesthetics of his subsequent work, forcing a cinema made under constraint—static camera, enclosed spaces, and minimal spectacle—that would become central to the bleak, claustrophobic world of "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": ". Rather than an artistic choice alone, this austerity was the result of institutional exclusion within a tightly controlled production economy."
             }
           ]
         }
@@ -160,6 +188,14 @@
         {
           "category": "Sex-Gender System",
           "tag": "Body Politics on the screen"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queering the genre"
         }
       ],
       "uuid": "709800c9-e474-4363-b59e-f6d82a56204c"
