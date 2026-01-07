@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "fgarcia-eng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228952504?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "fgarcia-eng",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-01-07T02:19:35.992Z",
-    "updated_at": "2026-01-07T02:19:35.992Z"
-  }
+    "updated_at": "2026-01-07T02:19:35.992Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "685bb484-2cd1-49a3-885e-68f48c386187": {
+      "content": [],
+      "created_at": "2026-01-07T02:19:36.007Z",
+      "created_by": "fgarcia-eng",
+      "title": "transfemininity-el-lugar-sin-limites",
+      "updated_at": "2026-01-07T02:19:36.007Z",
+      "updated_by": "fgarcia-eng",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "685bb484-2cd1-49a3-885e-68f48c386187"
+  ]
 }
