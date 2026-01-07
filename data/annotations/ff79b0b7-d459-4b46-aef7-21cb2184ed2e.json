@@ -58,6 +58,81 @@
         }
       ],
       "uuid": "9f27e537-da2a-4e1d-b5db-ae3f205ced40"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When La Manuela steps forward and declares, "
+            },
+            {
+              "text": "“yo soy el plato fuerte,”",
+              "italic": true
+            },
+            {
+              "text": " in plain language of celebration and consumption, she announces herself as the main event—the object of attention, desire, and anticipation. The spotlight follows."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This moment inaugurates the film’s climax. Seated at the center of the room, Pancho becomes the spectator, while La Manuela takes control of the scene as dancer and storyteller. Her body moves as narrative; her dance unfolds as speech. Desire is no longer dispersed among drunken bodies but focused, condensed, and dangerously legible. The queer body here is not marginal—it is spectacularized, staged, and commanding. Within the logic of the fiesta, La Manuela momentarily inverts the sex/gender system: transfeminine presence becomes central rather than peripheral, desired rather than disavowed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yet this power is inseparable from risk. The cine de ficheras framework allows her visibility only as spectacle—consumable, eroticized, and temporally bound to the party itself. Her authority derives from her ability to enchant, to hold the gaze, to suspend the room through performance. She knows this. "
+            },
+            {
+              "text": "“Yo soy el plato fuerte”",
+              "italic": true
+            },
+            {
+              "text": " is not naïveté; it is strategic self-awareness. She understands that desire is the only language available to her—and that speaking it openly accelerates the scene toward collapse."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This sequence condenses the film’s central paradox. La Manuela’s mastery of the moment—her control over rhythm, attention, and affect—exposes the fragility of the masculine order watching her. Pancho’s desire, once visible, becomes intolerable. What appears here as triumph (she as a she) is also countdown. The spectacle that grants La Manuela centrality simultaneously renders her uncontainable. By forcing recognition, she destabilizes the fragile pact that allows queer desire to circulate only in shadow."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The line thus opens the climax not because it announces pleasure, but because it makes desire undeniable. In claiming the center, La Manuela claims visibility—and in doing so, she triggers the violence that will follow. The party reaches its peak precisely at the moment it can no longer hold."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Trans* embodiment"
+        },
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Feminine self-naming"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Queer Masculinity"
+        }
+      ],
+      "uuid": "a52d2198-da0d-4b8c-9f4d-aa739a658ee6"
     }
   ],
   "set": "Default",
