@@ -92,6 +92,38 @@
         }
       ],
       "uuid": "157f44f2-c98a-4fe0-bc76-71bd8b2e7c2e"
+    },
+    {
+      "start_time": 240,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ironically, the controversy about the kiss between two men contributed to the film’s growing notoriety and popularity. What was condemned in one context circulated as fascination in another, allowing "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " to travel widely and secure a lasting place in film history. Ripstein’s reflections thus reveal how scandal operated as both constraint and catalyst: the same act that triggered moral outrage in Francoist Spain helped cement the film’s status as a landmark in Mexican—and transnational—cinema. The kiss becomes, retrospectively, a hinge between censorship and circulation, punishment and visibility, marking the high cost and unexpected reach of transfeminine representation in Mexican cultural production. The director suggests that he might be the first in working the topic of transness (travestismo, homosexualidad) the way he did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sex-Gender System",
+          "tag": "Queer Masculinity"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Mexican Melodrama"
+        }
+      ],
+      "uuid": "b22e1e66-f2c7-4f85-b336-16398b1117cf"
     }
   ],
   "set": "Default",
