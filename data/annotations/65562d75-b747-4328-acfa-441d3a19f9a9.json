@@ -193,6 +193,57 @@
         }
       ],
       "uuid": "b2dcfcb2-f2ad-4694-8aa2-4187b460475e"
+    },
+    {
+      "start_time": 154,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Nos vamos a ir todos pa’ arriba como la espuma.” The line, spoken by La Japonesa Mayor, it belongs to a moment when El Olivo still appears viable: a town with electricity, music, people, and circulation. Light is literal here. The brothel is full, the fiesta loud, the community seems joyful. By placing this declaration at the threshold of the flashback, the film invites a question that will haunt everything that follows: "
+            },
+            {
+              "text": "what happened?",
+              "italic": true
+            },
+            {
+              "text": " How did a place that once imagined itself rising “like foam” become the closed, surveilled, violent space we encounter in the present?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This return to the past does not idealize El Olivo, but it establishes that hell was not always total. The town’s later collapse is shown to be produced—through economic coercion, gendered violence, and the gradual withdrawal of infrastructure and possibility. The flashback also intervenes in a dominant narrative of queer survival. Where Mexican cultural imaginaries often frame queerness through migration to the city, "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " stages a different path: La Manuela does not leave. She remains in the rural space, builds a life there, and becomes visible within it. The film thus queers the logic of escape by asking what it means for transfeminine life not to migrate, but to persist—however precariously—where it is not meant to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Queer Spaces",
+          "tag": "Rurality and queernes"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Body Politics on the screen"
+        },
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Transness and violence"
+        }
+      ],
+      "uuid": "6eef670d-7019-48f9-9537-2a7cfbb49812"
     }
   ],
   "set": "Default",
