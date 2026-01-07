@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "feec24e2-a113-4a45-9a19-02098c5de9af": {
+      "label": "Trailer",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=FmANQBBFRSU",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Trailer",
+  "av_file_order": [
+    "feec24e2-a113-4a45-9a19-02098c5de9af"
+  ],
+  "created_at": "2026-01-07T02:47:23.263Z",
+  "created_by": "fgarcia-eng",
+  "updated_at": "2026-01-07T02:47:23.263Z",
+  "updated_by": "fgarcia-eng"
+}
