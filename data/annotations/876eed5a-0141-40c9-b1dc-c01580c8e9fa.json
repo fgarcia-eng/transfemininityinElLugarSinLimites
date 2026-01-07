@@ -23,6 +23,47 @@
       ],
       "tags": [],
       "uuid": "2c313d71-fc7a-47b0-a5f6-4a08d0097e18"
+    },
+    {
+      "start_time": 120,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When La Manuela hears Pancho’s truck and whispers, “Ay, es que estoy tan nerviosa,” she names herself in the feminine—nerviosa—a seemingly small grammatical choice that carries significant weight. This moment exemplifies what this project understands as 'mediated self-representation': the emergence of a transfeminine voice within a cinematic and social system structured by machismo, one that simultaneously permits and punishes her intelligibility. Her fear is not abstract or only psychological; it is historically and socially produced. In rural Mexico, machismo functions as a regulatory regime that organizes gender, desire, and violence, rendering transfeminine presence legible only under threat. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Throughout the 1970s, transfeminine figures in Mexican cultural production began to appear as speaking subjects, but always within conditions shaped by masculine dominance, spectacle, and the ever-present possibility of punishment. La Manuela’s fear registers this reality. It is the fear of a social order in which masculinity must constantly reassert itself through control, humiliation, and violence, and in which transfemininity becomes visible only at the edge of annihilation. Pancho’s approach activates not only personal memory of past brutality against her but the broader machista logic that authorizes his power and impunity."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By using the feminine to describe her own affective state, La Manuela briefly glitches this system. She speaks herself into being through language, asserting a gendered subjectivity that machismo seeks to deny or discipline. This assertion is immediately undercut by her surroundings—most notably by La Japonesita’s insistence on calling her papá—a reminder that recognition is structurally constrained. The utterance thus holds a double force: it is both an act of self-naming and a survival strategy within a regime that makes transfeminine life precarious. What enters the (discursive) archive here is not stable identity but a trace—fear voiced in the feminine—revealing how transfeminine subjectivity in Mexican cinema emerges in fragments, shaped by machismo’s violence and the constant negotiation of visibility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Trans* embodiment"
+        },
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Feminine self-naming"
+        }
+      ],
+      "uuid": "b41cc4e9-c44b-4b3b-a995-6fdf28997511"
     }
   ],
   "set": "Default",
