@@ -102,6 +102,46 @@
         }
       ],
       "uuid": "27d51e33-83c9-4ca0-bec5-23ae4a16d234"
+    },
+    {
+      "start_time": 260,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crucially, Ripstein points to the role of homophobia and transphobia in shaping casting decisions. Well-known actors—most notably "
+            },
+            {
+              "text": "Resortes",
+              "italic": true
+            },
+            {
+              "text": "—declined the role of Manuela, reportedly fearing the impact such a character might have on their careers. This refusal exposes the operation of the Mexican sex/gender system at the level of the film industry itself: embodying a transfeminine character was perceived not merely as acting, but as a reputational threat capable of destabilizing masculine legibility off-screen. Manuela’s eventual appearance, then, is not only a narrative rupture but an industrial one—made possible through a series of refusals, compromises, and exclusions that reveal how transfeminine visibility entered Mexican cinema only under conditions of precarity, mediation, and risk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Transness and violence"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Body Politics on the screen"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queering the genre"
+        }
+      ],
+      "uuid": "48f3a8c6-8cbf-417a-add9-19188d0604b1"
     }
   ],
   "set": "Default",
