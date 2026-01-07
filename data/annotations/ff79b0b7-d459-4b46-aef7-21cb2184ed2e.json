@@ -135,8 +135,8 @@
       "uuid": "a52d2198-da0d-4b8c-9f4d-aa739a658ee6"
     },
     {
-      "start_time": 267,
-      "end_time": 0,
+      "start_time": 130,
+      "end_time": 135,
       "annotation": [
         {
           "type": "paragraph",
@@ -173,60 +173,22 @@
               "text": " Pancho complies, repeating the line aloud \"Kiss my knees, to be able to walk again\". Crucially, the request is framed as part of the story, not as Pancho’s own desire. Performance becomes cover."
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The scene hinges on this displacement. By embedding the gesture within fiction, La Manuela creates a space where Pancho can act without being fully accountable to himself as Pancho. He is not transgressing; he is "
-            },
-            {
-              "text": "playing",
-              "italic": true
-            },
-            {
-              "text": ". This allows him to perform intimacy—kneeling, pleading, using the diminutive "
-            },
-            {
-              "text": "“Manuelita”",
-              "italic": true
-            },
-            {
-              "text": "—that would otherwise threaten his masculine self-image. Gender roles are temporarily stabilized through fantasy: she is "
-            },
-            {
-              "text": "the woman",
-              "italic": true
-            },
-            {
-              "text": ", he is "
-            },
-            {
-              "text": "the man",
-              "italic": true
-            },
-            {
-              "text": ", and desire circulates safely so long as it is narrated, choreographed, and aestheticized."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This moment exemplifies La Manuela’s control of the scene. She directs Pancho’s body, speech, and position in space; she commands the narrative and the tempo of desire. The queer body here is not passive spectacle but active dramaturg. Yet this authority is precarious. The same fiction that enables intimacy also delays its consequences. The request—"
-            },
-            {
-              "text": "“bésame la rodilla”",
-              "italic": true
-            },
-            {
-              "text": "—marks the point where desire becomes legible through action, setting in motion the sequence that will culminate in the kiss and, shortly after, the collapse of the performance’s protective frame."
-            }
-          ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Queer Spaces",
+          "tag": "Fiesta as social stage"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Trans* embodiment on screen"
+        },
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Feminine self-naming"
+        }
+      ],
       "uuid": "239e361e-b609-452d-988d-8625eb5e2216"
     }
   ],
