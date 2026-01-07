@@ -142,6 +142,27 @@
         }
       ],
       "uuid": "48f3a8c6-8cbf-417a-add9-19188d0604b1"
+    },
+    {
+      "start_time": 79,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Foxtrot"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sex-Gender System",
+          "tag": "Body Politics on the screen"
+        }
+      ],
+      "uuid": "709800c9-e474-4363-b59e-f6d82a56204c"
     }
   ],
   "set": "Default",
