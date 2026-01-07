@@ -145,6 +145,27 @@
         }
       ],
       "uuid": "fa8ca4d0-2ae2-41dd-866d-b46a5d1dcd13"
+    },
+    {
+      "start_time": 277,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When La Manuela tells her daughter, “Esta noche no vamos a poder abrir,” the line registers as more than a practical decision about the brothel’s operations. It signals the anticipatory power of machista violence: Pancho does not need to be present for his authority to structure their actions. Daily life—labor, intimacy, survival—is preemptively suspended in response to the threat he represents. The brothel closes not because violence has occurred, but because it is expected. This moment establishes the film’s central affective economy: fear as a governing force that organizes space, time, and possibility for transfeminine life in rural Mexico. Before Pancho enters the frame, his masculinity already dictates what can and cannot happen. The film opens, then, not with action but with constraint—revealing how machismo operates less as episodic brutality than as a continuous regime that disciplines bodies in advance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sex-Gender System",
+          "tag": "Queer Masculinity"
+        }
+      ],
+      "uuid": "dfdc4100-4e58-46e2-ad95-b95c5ba61f97"
     }
   ],
   "set": "Default",
