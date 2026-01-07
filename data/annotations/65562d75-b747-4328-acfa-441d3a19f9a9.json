@@ -1,5 +1,72 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 40,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " is set in a brothel and draws on conventions associated with "
+            },
+            {
+              "text": "cine de ficheras",
+              "italic": true
+            },
+            {
+              "text": "—a popular 1970s Mexican genre centered on cabarets, sex workers, musical numbers, and erotic comedy—the film announces from its opening that it will not deliver the genre’s expected pleasures. Traditionally, cine de ficheras organizes desire around heterosexual spectacle, humor, and containment: women’s bodies are eroticized for male consumption, often through striptease or partial nudity bordering on soft porn; musical interludes (boleros, rancheras, live cabaret performances) punctuate the narrative; and queer figures appear as comic relief or excessive caricature. Sexuality, however explicit, ultimately serves to reaffirm masculine dominance rather than threaten it."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ripstein’s film signals a rupture from this framework immediately. By opening with a Faustian epigraph that defines hell as immanent and inescapable, "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " reframes the brothel not as a site of titillation or comic release, but as a space structured by coercion, surveillance, and violence. The genre’s familiar elements remain—music, theatricality, erotic display—but they are drained of humor and safety. Theatricality here does not signal camp pleasure or comic exaggeration; it becomes a mode of exposure, a way of staging gender under conditions of risk. Likewise, eroticism no longer promises release but accelerates conflict."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While queer figures had long circulated in cine de ficheras, they typically occupied marginal positions, contained through ridicule or secondary plotlines. La Manuela’s centrality breaks decisively from this logic. In queering cine de ficheras, the film shifts the center of gravity from heterosexual male pleasure to transfeminine visibility, vulnerability, and agency. La Manuela is not a peripheral spectacle but the narrative axis around which desire coheres and collapses. Song, dance, and performance cease to function as escapist entertainment; they become the very mechanisms through which gender is negotiated, made legible, and violently punished. The genre’s conventions persist, but they are retooled to stage tragedy rather than release—announcing from the outset that this is a brothel film without redemption, laughter without safety, and spectacle without limits."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sex-Gender System",
+          "tag": "Trans* embodiment on screen"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queering the genre"
+        }
+      ],
+      "uuid": "fe4b9e09-222d-4700-a251-4fa22f3f994f"
+    }
+  ],
   "set": "Default",
   "event_id": "f4f9d818-7ffe-45be-bd5a-5cf3b9fce2b1",
   "source_id": "639329e9-905a-4efc-90cb-c295e65ee8f3"
