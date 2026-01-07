@@ -1,5 +1,65 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For most of the film, La Manuela survives by hiding from Pancho. Her withdrawal—from public space, from the brothel, from visibility itself—is a strategy shaped by memory of past violence and by the knowledge that Pancho’s masculinity authorizes harm. When he finally forces his way into the brothel, Manuela retreats even further, slipping into the back patio and watching from the shadows as Pancho drinks, dances, and asserts control over the space. Fear here is spatialized: survival depends on remaining unseen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That containment collapses the moment Pancho turns his aggression toward La Japonesita. Seeing her daughter grabbed and sexually threatened, Manuela abandons concealment and steps into view. Her emergence is not a return to safety but an act of interruption—one compelled by care, kinship, and the impossibility of continued invisibility."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pancho’s response is immediate and cruel: “Ámonos, aquí se curó la enferma.” ("
+            },
+            {
+              "text": "“Well then—looks like the sick one’s all better now.”",
+              "italic": true
+            },
+            {
+              "text": ") It’s also worth noted that this is said with exited, celebrating. This moment marks the beginning of the film’s climax, where fear gives way to forced visibility and where Manuela’s body is no longer allowed the protection of shadow. What follows—"
+            },
+            {
+              "text": "la leyenda del beso",
+              "italic": true
+            },
+            {
+              "text": "—will make desire fully visible, and therefore, trasphobic, lethal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Queer Spaces",
+          "tag": "Fiesta as social stage"
+        },
+        {
+          "category": "Queer Spaces",
+          "tag": "Rurality and queernes"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Queer Masculinity"
+        }
+      ],
+      "uuid": "9f27e537-da2a-4e1d-b5db-ae3f205ced40"
+    }
+  ],
   "set": "Default",
   "event_id": "df910b5e-3694-4177-afd4-0c8ebcf3f161",
   "source_id": "1db02bff-cabc-4bbe-b4e1-f06a988edf8c"
