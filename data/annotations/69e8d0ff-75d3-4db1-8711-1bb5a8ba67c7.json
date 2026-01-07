@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 60,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " (Arturo Ripstein, 1978) centers on La Manuela, a transfeminine flamenco dancer and sex worker who lives with her daughter, La Japonesita, in a brothel they inherited through a wager with Don Alejo, the local cacique of the rural town of El Olivo. As Don Alejo consolidates the town’s remaining properties to sell them to an external consortium, the brothel and Octavio’s gas station—operated by Pancho’s brother-in-law—become the final obstacles to his complete control. This economic backdrop frames a narrative in which gender, desire, and violence converge. The film’s dramatic tension is driven by the relationship between La Manuela and Pancho, who functions as the film’s male protagonist and embodiment of rural machismo. Pancho’s self-presentation—rooted in bravado, compulsory heterosexuality, and a fixation on honor—stands in direct contrast to La Manuela’s vulnerability and artistic expressiveness. While La Manuela lives in a constant state of alertness after their last violent encounter, Pancho repeatedly asserts his masculine dominance (“yo no le tengo miedo a nadie”), positioning himself as a man whose authority cannot be questioned. Yet Pancho’s desire for La Manuela—visible to others during the fiestas, where her dance makes her momentarily central—destabilizes this masculine self-image. The film presents his attraction as both undeniable and intolerable within the rural sex/gender regime. When this desire becomes publicly visible, compromising his claim to heterosexual virility and patriarchal control, Pancho responds through escalating aggression. His murder of La Manuela in the film’s final sequence functions as an act of necropolitical self-preservation: a violent attempt to restore the coherence of masculinity by eliminating the transfeminine subject who exposed its fragility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Mexican Melodrama"
+        }
+      ],
+      "uuid": "53adf3b3-81d5-4556-9de0-ef49de5e9ca2"
+    }
+  ],
   "set": "Default",
   "event_id": "16e38327-3beb-4703-93a4-c79ba930cd7c",
   "source_id": "feec24e2-a113-4a45-9a19-02098c5de9af"
