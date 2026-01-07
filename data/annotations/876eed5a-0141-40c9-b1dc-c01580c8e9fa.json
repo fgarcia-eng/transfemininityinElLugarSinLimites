@@ -1,5 +1,30 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 25,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The film opens not with action but with a warning. Before any character appears on screen, El lugar sin límites is framed by an epigraph from Christopher Marlowe’s La trágica historia del doctor Fausto (1604), in which Mephistopheles insists that hell is not a distant, exceptional realm but an immanent condition: “El infierno no tiene límites… el infierno es aquí donde estamos.” This declaration establishes the film’s governing ontology. Hell is not elsewhere, not after death, not beyond the world—it is spatial, social, and already inhabited."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the context of Ripstein’s film, this quote prepares the viewer for a narrative in which violence does not erupt as anomaly but circulates as structure. Rural El Olivo is not introduced as a corrupted paradise but as a space already organized by domination, surveillance, and coercion. The town itself—its brothel, fiestas, hierarchies, and silences—constitutes a hell without borders, one that cannot be escaped simply by movement or desire. This is crucial for understanding La Manuela’s predicament: her vulnerability is not the result of individual misfortune but of inhabiting a world whose sex/gender system is already infernal."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2c313d71-fc7a-47b0-a5f6-4a08d0097e18"
+    }
+  ],
   "set": "Default",
   "event_id": "64a901aa-286f-4d87-8351-4f6e4be80841",
   "source_id": "170e9460-480a-41e7-bab7-89637947836e"
