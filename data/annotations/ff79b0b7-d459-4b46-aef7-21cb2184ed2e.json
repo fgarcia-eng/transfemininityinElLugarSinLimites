@@ -262,6 +262,31 @@
         }
       ],
       "uuid": "bbc4f76c-e78c-476c-adc6-82c35b3ba9f6"
+    },
+    {
+      "start_time": 150,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This sequence marks the moment when Pancho’s masculinity enters open crisis. On screen, the viewer first witnesses gestures that remain socially permissible within the brothel’s economy: Pancho kisses, touches, and grabs La Manuela. These acts do not immediately provoke sanction because they can still be absorbed into a heteromasculine logic that frames Manuela as spectacle, performance, and exception. Within the codes of the fiesta and the brothel, desire can circulate so long as it remains unserious, aestheticized, and deniable. Pancho’s actions are legible as excess, drunkenness, or domination—forms of contact that do not yet threaten his status as “hombre.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Trans* embodiment"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queer body as spectacle"
+        }
+      ],
+      "uuid": "b854f7ba-5ee6-4a40-94bd-fdc222f2311a"
     }
   ],
   "set": "Default",
