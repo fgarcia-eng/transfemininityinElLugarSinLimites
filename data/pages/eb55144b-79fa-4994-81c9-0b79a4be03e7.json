@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-01-07T03:10:10.581Z",
+  "created_by": "fgarcia-eng",
+  "title": "La leyenda del beso",
+  "slug": "la-leyenda-del-beso",
+  "updated_at": "2026-01-07T03:10:10.581Z",
+  "updated_by": "fgarcia-eng",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "df910b5e-3694-4177-afd4-0c8ebcf3f161"
+  }
+}
