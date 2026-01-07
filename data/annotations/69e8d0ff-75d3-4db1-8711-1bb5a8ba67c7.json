@@ -56,7 +56,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Sex-Gender System",
+          "tag": "Body Politics on the screen"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Trans* embodiment on screen"
+        },
+        {
+          "category": "Queer Spaces",
+          "tag": "Rurality and queernes"
+        },
+        {
+          "category": "Transfeminine Identity ",
+          "tag": "Transness and violence"
+        }
+      ],
       "uuid": "78edb9c0-2ada-4aad-b1fc-f06d21974821"
     }
   ],
