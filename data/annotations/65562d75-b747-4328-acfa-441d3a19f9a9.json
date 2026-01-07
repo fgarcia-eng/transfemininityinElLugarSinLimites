@@ -124,6 +124,75 @@
         }
       ],
       "uuid": "9e5a9855-7f87-49c1-9783-3e895c5f4631"
+    },
+    {
+      "start_time": 85,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the men shout “¡Joto! ¡Puto! ¡Saquen a ese degenerado!” as La Manuela dances, they activate a familiar repertoire of naming practices that organize gender variance through insult, exposure, and expulsion. These terms do not only describe; they produce a discourse around her body—what she is allowed to be, how she may appear, and the conditions under which she can remain in public space. Naming here functions as a technology of regulation, marking the limits of her provisional inclusion within the fiesta."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Manuela’s response—“Joto sí, degenerado no”—interrupts this process. Rather than rejecting the term outright, she selectively accepts and refuses it, drawing a line within the town’s own taxonomy. In doing so, she exposes the instability of these categories and asserts a form of counter-legibility from within the available language. To accept "
+            },
+            {
+              "text": "joto",
+              "italic": true
+            },
+            {
+              "text": " while rejecting "
+            },
+            {
+              "text": "degenerado",
+              "italic": true
+            },
+            {
+              "text": " is not submission, but strategy: she claims a socially recognizable position while refusing the moral abjection that would justify her removal or punishment. This distinction matters. "
+            },
+            {
+              "text": "Degenerado",
+              "italic": true
+            },
+            {
+              "text": " invokes a discourse of corruption, pathology, and danger—one historically tied to nationalist anxieties about social decay—whereas "
+            },
+            {
+              "text": "joto",
+              "italic": true
+            },
+            {
+              "text": ", while derogatory, remains relational, situational, and unevenly enforced."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This exchange makes visible how naming operates as a site of negotiation rather than fixed identity. The fiesta, already a space where the sex/gender system loosens under alcohol and spectacle, becomes a contested arena in which Manuela briefly pushes back against the terms of her intelligibility. Her body continues to be celebrated as spectacle—desired, admired, consumed—yet this visibility is always shadowed by the threat of reclassification. The response “joto sí, degenerado no” crystallizes the double bind of her presence: she can be seen, but only if she manages the names through which she is read. What the scene reveals is not liberation, but a fragile, tactical survival within a linguistic economy where being named is inseparable from being exposed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sex-Gender System",
+          "tag": "Queer desire in rural contexts"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queer body as spectacle"
+        }
+      ],
+      "uuid": "b2dcfcb2-f2ad-4694-8aa2-4187b460475e"
     }
   ],
   "set": "Default",
