@@ -101,6 +101,50 @@
         }
       ],
       "uuid": "f7e4e6c5-b8e5-4de1-9da7-3bd483f9a147"
+    },
+    {
+      "start_time": 209,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The film stages intimacy not only through erotic spectacle but through everyday practices of care. La Manuela sleeps beside her daughter, La Japonesita—not as sexualized proximity, but as protection. Inside the room, there is calm: they sleep "
+            },
+            {
+              "text": "con tranca",
+              "italic": true
+            },
+            {
+              "text": ", bodies close. This shared sleep signals trust, affection, and a fragile sense of safety. In a world structured by threat, intimacy becomes pragmatic; closeness is a way of holding danger at bay."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That quiet is abruptly shattered from the outside. The noise of the town gives way to Pancho’s truck, his horn announcing his arrival—smiling, insistent, already asserting presence. The sound breaches the domestic space, collapsing the boundary between interior refuge and external violence. What was restful becomes alert; what was safe becomes precarious. The scene makes clear that intimacy here is always conditional. Even moments of care and tranquility are vulnerable to interruption by masculine power and the threat of what Pancho might do to La Manuela. What the film records is not deviance, but care under siege—an intimacy shaped by vigilance, affection, and the constant possibility of violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queer body as spectacle"
+        },
+        {
+          "category": "Sex-Gender System",
+          "tag": "Body Politics on the screen"
+        }
+      ],
+      "uuid": "fa8ca4d0-2ae2-41dd-866d-b46a5d1dcd13"
     }
   ],
   "set": "Default",
