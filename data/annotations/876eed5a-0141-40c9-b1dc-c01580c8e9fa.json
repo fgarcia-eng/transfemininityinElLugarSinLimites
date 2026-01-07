@@ -73,6 +73,29 @@
         }
       ],
       "uuid": "b41cc4e9-c44b-4b3b-a995-6fdf28997511"
+    },
+    {
+      "start_time": 198,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From its opening, "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " establishes space as an active force. At 3:18, the brothel is introduced not only as a setting but as a character in its own right: camp, cutre, decadent, and dimly lit. Its worn fabrics, cramped interiors, and excessive ornamentation mark it as a feminized, marginal space—one saturated with intimacy and moral ambiguity. This is the space where the film’s action will unfold, and its cutre aesthetic prefigures the conditions under which transfeminine visibility can occur. The brothel stages a world where gender is already theatrical, where respectability is suspended, and where desire circulates in coded, unstable ways."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f7e4e6c5-b8e5-4de1-9da7-3bd483f9a147"
     }
   ],
   "set": "Default",
