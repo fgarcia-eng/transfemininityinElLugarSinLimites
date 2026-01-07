@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "fgarcia-eng",
+    "is_private": false,
+    "title": "transfemininity-el-lugar-sin-limites",
+    "description": "This AVAnnotate project will focus on Arturo Ripstein’s 1978 film El lugar sin límites, a foundational work in the genealogy of transfeminine representation in Mexican cinema.Using AVAnnotate, I will create a richly contextualized, timestamped annotation of key scenes, exploring how gender, desire, spectacle, and violence intersect on screen. Annotations will include transcript excerpts, cinematic techniques (shot composition, lighting, sound), intertextual references, and historical context related to 1970s Mexican media, nota roja sensationalism, and emerging queer social movements. I also plan to use tags and categories to highlight recurring tropes of transfeminine representation (e.g., transphobia, masculinity, precarity), and to analyze how visual and narrative structures reinforce or challenge normative gender regimes. AVAnnotate will allow me to break down the film into analyzable segments that foreground its audiovisual construction of gender nonconformity.",
+    "language": "en",
+    "slug": "transfemininityinElLugarSinLimites",
+    "creator": "fgarcia-eng",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-01-07T02:19:35.992Z",
+    "updated_at": "2026-01-07T02:19:35.992Z"
   }
 }
