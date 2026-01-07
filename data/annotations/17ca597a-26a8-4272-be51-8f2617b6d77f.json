@@ -153,6 +153,36 @@
         }
       ],
       "uuid": "92081dc5-8900-462f-bbd9-72c487ef72e7"
+    },
+    {
+      "start_time": 60,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Quién es Roberto Cobo? Roberto Cobo was a Mexican actor best known for his iconic role as Jaibo in "
+            },
+            {
+              "text": "Los olvidados",
+              "italic": true
+            },
+            {
+              "text": " (Luis Buñuel). In "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": ", he delivers a late-career performance as La Manuela that redefined his legacy, marking one of the most complex and consequential portrayals of gender variance in Mexican cinema."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "733a6fc8-a2fa-4436-89ae-2f8959b1a6eb"
     }
   ],
   "set": "Default",
