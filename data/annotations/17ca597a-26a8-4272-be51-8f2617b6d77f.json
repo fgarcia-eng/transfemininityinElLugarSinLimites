@@ -124,6 +124,35 @@
         }
       ],
       "uuid": "b22e1e66-f2c7-4f85-b336-16398b1117cf"
+    },
+    {
+      "start_time": 31,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ripstein on Gonzalo Vega"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Mexican Melodrama"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Cine de ficheras"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queering the genre"
+        }
+      ],
+      "uuid": "92081dc5-8900-462f-bbd9-72c487ef72e7"
     }
   ],
   "set": "Default",
