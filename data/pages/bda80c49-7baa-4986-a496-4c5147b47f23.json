@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-01-07T02:51:56.211Z",
+  "created_by": "fgarcia-eng",
+  "title": "Opening Scene",
+  "slug": "opening-scene",
+  "updated_at": "2026-01-07T02:51:56.211Z",
+  "updated_by": "fgarcia-eng",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "64a901aa-286f-4d87-8351-4f6e4be80841"
+  }
+}
