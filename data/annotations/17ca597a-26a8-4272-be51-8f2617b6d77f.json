@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Pasó a la historia como la primera película que mostró sin tapujos un beso entre dos hombres\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queering the genre"
+        },
+        {
+          "category": "Mexican Cinema",
+          "tag": "Queer body as spectacle"
+        }
+      ],
+      "uuid": "e30f54c1-4afb-4ad2-9b7a-66422ea13bdc"
+    }
+  ],
   "set": "Default",
   "event_id": "b5c99c76-bc71-4d1a-baea-20882195c633",
   "source_id": "4e8ef4ca-fb71-4bb7-a5d1-233f49c78b11"
