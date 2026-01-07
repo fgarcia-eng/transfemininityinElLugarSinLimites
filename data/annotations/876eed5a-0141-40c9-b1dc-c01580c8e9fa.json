@@ -21,7 +21,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Queer Spaces",
+          "tag": "Rurality and queernes"
+        },
+        {
+          "category": "Queer Spaces",
+          "tag": "El Olivo"
+        }
+      ],
       "uuid": "2c313d71-fc7a-47b0-a5f6-4a08d0097e18"
     },
     {
